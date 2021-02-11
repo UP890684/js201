@@ -48,5 +48,6 @@ function checkObjectInside(obj)
   if (obj.data != NULL)
     {
       obj.checked = true;
+      return obj.checked;
     } 
 }
