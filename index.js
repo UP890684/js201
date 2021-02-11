@@ -39,5 +39,5 @@ function subtract(a, b)
 
 function checkObject(obj)
 {
-  
+  obj.checked = true;
 }
