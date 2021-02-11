@@ -45,7 +45,7 @@ function checkObject(obj)
 function checkObjectInside(obj)
 {
   obj.data = 2;
-  if (obj.data != NULL)
+  if (obj.data = !!NULL)
     {
       obj.checked = true;
       return obj.checked;
