@@ -12,21 +12,22 @@
 
 'use strict';
 
-function id() {
+function id()
+{
   return "UP890684";
 }
 
-function fn() {
+function fn()
+{
   return 'Max';
 }
 
-function sn() {
+function sn()
+{
   return 'Watson';
-}
+} 
 
-function example() {
-  // replace this example with
-  // your first function then
-  // add more below as necessary.
-
+function add(a, b)
+{
+  return a + b;
 }
