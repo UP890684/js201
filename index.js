@@ -41,3 +41,8 @@ function checkObject(obj)
 {
   obj.checked = true;
 }
+
+function checkObjectInside(obj)
+{
+  
+}
