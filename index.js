@@ -44,10 +44,13 @@ function checkObject(obj)
 
 function checkObjectInside(obj)
 {
-  obj.data = 2;
+  obj.data
+  {
+    checked: undefined
+  };
   if (obj.data = !!undefined)
-    {
-      obj.checked = true;
-      return obj.checked;
-    } 
+  {
+    data.checked = true;
+    return obj.data;
+  } 
 }
